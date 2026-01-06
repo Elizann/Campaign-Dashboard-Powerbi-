@@ -12,7 +12,6 @@ The key challenge is understanding:
 - Which brand generates higher quality leads
 - Which campaigns drive maximum admissions
 - How conversion rates differ between Deployad and Primus
-- Where improvements are required in the admissions funnel
 
 This dashboard addresses these questions through interactive, data driven insights.
 
@@ -31,7 +30,7 @@ This dashboard addresses these questions through interactive, data driven insigh
 - Total Admissions
 - Lead to Admission Conversion Rate
 - Brand Wise Performance (Deployad vs Primus)
-- Campaign Wise Leads and Admissions
+- Campaign-Wise Leads and Admissions
 - Branch Wise Admissions Distribution
 - Daily, Weekly, and Monthly Trends
 
@@ -50,10 +49,7 @@ This dashboard addresses these questions through interactive, data driven insigh
 4. **Branch Performance**  
    Admissions and conversion performance across branches.
 
-5. **Conversion Funnel Analysis**  
-   Lead to admission funnel highlighting drop off points.
-
-6. **Time Based Performance**  
+5. **Time Based Performance**  
    Daily, weekly, and monthly admissions and lead trends.
 
 ---
