@@ -1,7 +1,7 @@
 # Deployad & Primus Admissions Campaign Dashboard | Power BI
 
 ## Project Overview
-This Power BI project analyzes admissions and marketing campaign performance for two education brands, **Deployad** and **Primus**.  
+This Power BI project analyses admissions and marketing campaign performance for two education brands, **Deployad** and **Primus**.  
 The dashboard provides a consolidated and comparative view of lead generation, admissions, and conversion efficiency across both brands, enabling stakeholders to evaluate campaign effectiveness and optimize marketing strategy.
 
 ---
@@ -9,11 +9,11 @@ The dashboard provides a consolidated and comparative view of lead generation, a
 ## Business Objective
 Marketing and admissions teams run multiple campaigns across brands, branches, and time periods.  
 The key challenge is understanding:
-- Which brand generates higher quality leads
+- Which brand generates higher-quality leads
 - Which campaigns drive maximum admissions
 - How conversion rates differ between Deployad and Primus
 
-This dashboard addresses these questions through interactive, data driven insights.
+This dashboard addresses these questions through interactive, data-driven insights.
 
 ---
 
@@ -38,13 +38,13 @@ This dashboard addresses these questions through interactive, data driven insigh
 
 ## Dashboard Pages
 1. **Executive Overview**  
-   High level KPIs with brand comparison between Deployad and Primus.
+   High-level KPIs with brand comparison between Deployad and Primus.
 
 2. **Campaign Performance Analysis**  
-   Campaign wise analysis of leads, admissions, and conversion rates.
+   Campaign-wise analysis of leads, admissions, and conversion rates.
 
 3. **Brand Comparison**  
-   Side by side performance comparison of Deployad and Primus.
+   Side-by-side performance comparison of Deployad and Primus.
 
 4. **Branch Performance**  
    Admissions and conversion performance across branches.
@@ -56,8 +56,8 @@ This dashboard addresses these questions through interactive, data driven insigh
 
 ## Key Insights Generated
 - Identified which brand delivers higher conversion efficiency
-- Highlighted top performing campaigns across Deployad and Primus
-- Revealed underperforming campaigns requiring optimization
+- Highlighted top-performing campaigns across Deployad and Primus
+- Revealed underperforming campaigns requiring optimisation
 - Tracked admission trends to support planning and forecasting
 - Supported data driven allocation of marketing budgets
 
